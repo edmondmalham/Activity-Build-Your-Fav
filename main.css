@@ -1,0 +1,34 @@
+nav {
+    height: 40px;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+    padding: 20px;
+}
+.logo {
+    height: 40px;
+    width: auto;
+}
+.icons-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.icon-wrapper {
+    text-align: center;
+}
+.icon-wrapper img {
+    height: 30px;
+    width: auto;
+}
+
+.images-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.image-wrapper {
+    text-align: left;
+}
+.image-wrapper img {
+    height: 240px;
+    width: 250px;
+    border-radius: 10px;
+}
